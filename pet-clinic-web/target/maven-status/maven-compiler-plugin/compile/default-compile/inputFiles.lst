@@ -1,1 +1,5 @@
+/home/frane/spring/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/IndexController.java
+/home/frane/spring/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/VetController.java
+/home/frane/spring/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/bootstrap/DataLoader.java
+/home/frane/spring/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/OwnerController.java
 /home/frane/spring/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/SfgPetClinicApplication.java
